@@ -1,0 +1,5 @@
+C:\Users\HP\Desktop\EzeCarVentures\EzeCarVentures.Data\obj\Debug\netcoreapp3.1\EzeCarVentures.Data.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\EzeCarVentures\EzeCarVentures.Data\obj\Debug\netcoreapp3.1\EzeCarVentures.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\EzeCarVentures\EzeCarVentures.Data\obj\Debug\netcoreapp3.1\EzeCarVentures.Data.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\EzeCarVentures\EzeCarVentures.Data\obj\Debug\netcoreapp3.1\EzeCarVentures.Data.AssemblyInfo.cs
+C:\Users\HP\Desktop\EzeCarVentures\EzeCarVentures.Data\obj\Debug\netcoreapp3.1\EzeCarVentures.Data.csproj.CoreCompileInputs.cache
